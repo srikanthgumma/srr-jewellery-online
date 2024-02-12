@@ -139,7 +139,7 @@ export const SrrBody = () => {
                     <Button variant="primary" onClick={() => { handleShow(v) }}>Buy Now</Button>
                 </Card.Body>
 
-                <Offcanvas show={show} onHide={handleClose} placement='top' style={{ padding: "1rem", height: "fit-content" }}>
+                <Offcanvas show={show} onHide={handleClose} placement='top' style={{ padding: "1rem", height: "auto" }}>
                     <Offcanvas.Header closeButton>
                         <Offcanvas.Title>Your Item</Offcanvas.Title>
                     </Offcanvas.Header>
