@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/srr-jewellery-online/static/css/main.ad9dd8c8.css",
-    "main.js": "/srr-jewellery-online/static/js/main.22df97a8.js",
+    "main.js": "/srr-jewellery-online/static/js/main.1d0512d1.js",
     "static/js/787.060fc897.chunk.js": "/srr-jewellery-online/static/js/787.060fc897.chunk.js",
     "static/media/fa-solid-900.ttf": "/srr-jewellery-online/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/srr-jewellery-online/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/srr-jewellery-online/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/srr-jewellery-online/index.html",
     "main.ad9dd8c8.css.map": "/srr-jewellery-online/static/css/main.ad9dd8c8.css.map",
-    "main.22df97a8.js.map": "/srr-jewellery-online/static/js/main.22df97a8.js.map",
+    "main.1d0512d1.js.map": "/srr-jewellery-online/static/js/main.1d0512d1.js.map",
     "787.060fc897.chunk.js.map": "/srr-jewellery-online/static/js/787.060fc897.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad9dd8c8.css",
-    "static/js/main.22df97a8.js"
+    "static/js/main.1d0512d1.js"
   ]
 }
